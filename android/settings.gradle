@@ -1,0 +1,3 @@
+rootProject.name = 'reactNativeAnim'
+
+include ':app'
